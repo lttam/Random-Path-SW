@@ -7,8 +7,8 @@ Details of the model architecture and experimental results can be found in our p
 ```
 @article{nguyen2024sliced,
   title={Sliced Wasserstein with Random-Path Projecting Directions},
-  author={Khai Nguyen and Nicola Bariletto and Nhat Ho},
-  booktitle={nternational Conference on Machine Learning},
+  author={Khai Nguyen and Shujian Zhang and Tam Le and Nhat Ho},
+  booktitle={International Conference on Machine Learning (ICML)},
   year={2024},
   pdf={https://arxiv.org/pdf/2401.15889.pdf}
 }
